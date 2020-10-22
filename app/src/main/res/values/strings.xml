@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A7S212021prac5</string>
+    <string name="Listaimagen">Lista de imagenes</string>
+    <string name="Prac">Practica 5 7S21</string>
+    <string name="Logoslayer">Logo de slayer</string>
+    <string name="Logomotorhead">Logo de motoorhead</string>
+    <string name="Logomisfits">Logo de misfits</string>
+    <string name="Logometallica">Logo de metallica</string>
+    <string name="Logochivas">Logo de chivas</string>
+    <string name="miboton">Click aqui!!!</string>
+    <string name="ingresanombre">Ingresa tu nombre</string>
+</resources>
